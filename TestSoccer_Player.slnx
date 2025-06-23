@@ -1,3 +1,5 @@
 <Solution>
+  <Project Path="SalesTransactionDemo/SalesTransactionDemo.csproj" />
+  <Project Path="TestClassifiedAd/TestClassifiedAd.csproj" />
   <Project Path="TestSoccer_Player/TestSoccer_Player.csproj" />
 </Solution>

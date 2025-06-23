@@ -1,0 +1,15 @@
+/Users/bijujacob/Library/Mobile Documents/com~apple~CloudDocs/602 Hillside Rd/Lewis University/NET Programming/Lab4Assignment/TestClassifiedAd/bin/Debug/net9.0/TestClassifiedAd
+/Users/bijujacob/Library/Mobile Documents/com~apple~CloudDocs/602 Hillside Rd/Lewis University/NET Programming/Lab4Assignment/TestClassifiedAd/bin/Debug/net9.0/TestClassifiedAd.deps.json
+/Users/bijujacob/Library/Mobile Documents/com~apple~CloudDocs/602 Hillside Rd/Lewis University/NET Programming/Lab4Assignment/TestClassifiedAd/bin/Debug/net9.0/TestClassifiedAd.runtimeconfig.json
+/Users/bijujacob/Library/Mobile Documents/com~apple~CloudDocs/602 Hillside Rd/Lewis University/NET Programming/Lab4Assignment/TestClassifiedAd/bin/Debug/net9.0/TestClassifiedAd.dll
+/Users/bijujacob/Library/Mobile Documents/com~apple~CloudDocs/602 Hillside Rd/Lewis University/NET Programming/Lab4Assignment/TestClassifiedAd/bin/Debug/net9.0/TestClassifiedAd.pdb
+/Users/bijujacob/Library/Mobile Documents/com~apple~CloudDocs/602 Hillside Rd/Lewis University/NET Programming/Lab4Assignment/TestClassifiedAd/obj/Debug/net9.0/TestClassifiedAd.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bijujacob/Library/Mobile Documents/com~apple~CloudDocs/602 Hillside Rd/Lewis University/NET Programming/Lab4Assignment/TestClassifiedAd/obj/Debug/net9.0/TestClassifiedAd.AssemblyInfoInputs.cache
+/Users/bijujacob/Library/Mobile Documents/com~apple~CloudDocs/602 Hillside Rd/Lewis University/NET Programming/Lab4Assignment/TestClassifiedAd/obj/Debug/net9.0/TestClassifiedAd.AssemblyInfo.cs
+/Users/bijujacob/Library/Mobile Documents/com~apple~CloudDocs/602 Hillside Rd/Lewis University/NET Programming/Lab4Assignment/TestClassifiedAd/obj/Debug/net9.0/TestClassifiedAd.csproj.CoreCompileInputs.cache
+/Users/bijujacob/Library/Mobile Documents/com~apple~CloudDocs/602 Hillside Rd/Lewis University/NET Programming/Lab4Assignment/TestClassifiedAd/obj/Debug/net9.0/TestClassifiedAd.sourcelink.json
+/Users/bijujacob/Library/Mobile Documents/com~apple~CloudDocs/602 Hillside Rd/Lewis University/NET Programming/Lab4Assignment/TestClassifiedAd/obj/Debug/net9.0/TestClassifiedAd.dll
+/Users/bijujacob/Library/Mobile Documents/com~apple~CloudDocs/602 Hillside Rd/Lewis University/NET Programming/Lab4Assignment/TestClassifiedAd/obj/Debug/net9.0/refint/TestClassifiedAd.dll
+/Users/bijujacob/Library/Mobile Documents/com~apple~CloudDocs/602 Hillside Rd/Lewis University/NET Programming/Lab4Assignment/TestClassifiedAd/obj/Debug/net9.0/TestClassifiedAd.pdb
+/Users/bijujacob/Library/Mobile Documents/com~apple~CloudDocs/602 Hillside Rd/Lewis University/NET Programming/Lab4Assignment/TestClassifiedAd/obj/Debug/net9.0/TestClassifiedAd.genruntimeconfig.cache
+/Users/bijujacob/Library/Mobile Documents/com~apple~CloudDocs/602 Hillside Rd/Lewis University/NET Programming/Lab4Assignment/TestClassifiedAd/obj/Debug/net9.0/ref/TestClassifiedAd.dll

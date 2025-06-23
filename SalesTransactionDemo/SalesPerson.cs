@@ -10,15 +10,44 @@ namespace SalesTransactionDemo
 {
     internal class SalesPerson
     {
-        public string FirstName { get; set; }
-        public string LastName { get; set; }
-        private int SalesAmount { get; set; }
+        private string FirstName { get; set; }
+        private string LastName { get; set; }
+        private double SalesAmount { get; set; }
 
-        private int commission { get; set; }
+        private double commission { get; set; }
+        private readonly double CommissionRate;
+        public string firstName
+        {
+            get
+            {
+                return FirstName;
+            }
+            set
+            {
+                if (string.IsNullOrWhiteSpace(value))
+                {
+                    throw new ArgumentException("First name cannot be null or empty.");
+                }
+                FirstName = value;
+            }
+        }
+        public string lastName
+        {
+            get
+            {
+                return LastName;
+            }
+            set
+            {
+                if (string.IsNullOrWhiteSpace(value))
+                {
+                    throw new ArgumentException("Last name cannot be null or empty.");
+                }
+                LastName = value;
+            }
+        }
 
-        private readonly int commissionRate = 5; // 5% commission rate
-
-        public int salesAmount
+        public double salesAmount
         {
             get
             {
@@ -33,12 +62,10 @@ namespace SalesTransactionDemo
                 SalesAmount = value;
             }
         }
-        public int Commission
+        public double Commission
         {
             get
             {
-                // Calculate commission based on sales amount and commission rate
-                commission = (int)(SalesAmount * commissionRate / 100.0);
                 return commission;
             }
             set
@@ -51,21 +78,61 @@ namespace SalesTransactionDemo
             }
         }
 
-        public SalesPerson(string firstName, string lastName, int salesAmount, int commission)
+        public SalesPerson(string firstName, string lastName, double salesAmount, double commission, double commissionRate)
         {
-
             FirstName = firstName;
             LastName = lastName;
             SalesAmount = salesAmount;
             Commission = commission;
+            CommissionRate = commissionRate;
         }
 
+        // Constructor1
+        public SalesPerson(string firstName, string lastName, int salesAmount, double commission, double commissionRate)
+        {
+            FirstName = firstName;
+            LastName = lastName;
+            SalesAmount = salesAmount;
+            CommissionRate = commissionRate;
+            Commission = (SalesAmount * CommissionRate / 100.0);
+        }
+        // Constructor2
+        public SalesPerson(string firstName, string lastName, double salesAmount)
+        {
+            FirstName = firstName;
+            LastName = lastName;
+            CommissionRate = 0;
+            SalesAmount = salesAmount;
+            Commission = 0;
+        }
+        // Constructor3
+        public SalesPerson(string firstName, string lastName)
+        {
+            FirstName = firstName;
+            LastName = lastName;
+            CommissionRate = 0;
+            SalesAmount = 0;
+            Commission = 0;
+        }
+
+        public static SalesPerson operator +(SalesPerson t1, SalesPerson t2)
+        {
+            if (t1 == null || t2 == null)
+            {
+                throw new ArgumentNullException("SalesPerson cannot be null.");
+            }
+            string combineName1 = $"{t1.FirstName} {t1.LastName} &";
+            string combineName2 = $"{t2.FirstName} {t2.LastName}";
+            double combineSales = t1.SalesAmount + t2.SalesAmount;
+            double combineCommission = t1.Commission + t2.Commission;
+
+            return new SalesPerson(combineName1, combineName2, combineSales, combineCommission, (t1.CommissionRate + t2.CommissionRate) / 2);
+        }
 
         public override string ToString()
         {
-            return $"{FirstName} {LastName}, Sales Amount: {SalesAmount}";
+            return $"SalesPerson: {FirstName} {LastName}, Sales Amount: {SalesAmount:C}, Commission: {Commission:C}, Commission Rate: {CommissionRate}%";
         }
-
 
     }
 }

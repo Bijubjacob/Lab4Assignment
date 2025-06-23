@@ -1,0 +1,15 @@
+/Users/bijujacob/Library/Mobile Documents/com~apple~CloudDocs/602 Hillside Rd/Lewis University/NET Programming/Lab4Assignment/SalesTransactionDemo/bin/Debug/net9.0/SalesTransactionDemo
+/Users/bijujacob/Library/Mobile Documents/com~apple~CloudDocs/602 Hillside Rd/Lewis University/NET Programming/Lab4Assignment/SalesTransactionDemo/bin/Debug/net9.0/SalesTransactionDemo.deps.json
+/Users/bijujacob/Library/Mobile Documents/com~apple~CloudDocs/602 Hillside Rd/Lewis University/NET Programming/Lab4Assignment/SalesTransactionDemo/bin/Debug/net9.0/SalesTransactionDemo.runtimeconfig.json
+/Users/bijujacob/Library/Mobile Documents/com~apple~CloudDocs/602 Hillside Rd/Lewis University/NET Programming/Lab4Assignment/SalesTransactionDemo/bin/Debug/net9.0/SalesTransactionDemo.dll
+/Users/bijujacob/Library/Mobile Documents/com~apple~CloudDocs/602 Hillside Rd/Lewis University/NET Programming/Lab4Assignment/SalesTransactionDemo/bin/Debug/net9.0/SalesTransactionDemo.pdb
+/Users/bijujacob/Library/Mobile Documents/com~apple~CloudDocs/602 Hillside Rd/Lewis University/NET Programming/Lab4Assignment/SalesTransactionDemo/obj/Debug/net9.0/SalesTransactionDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bijujacob/Library/Mobile Documents/com~apple~CloudDocs/602 Hillside Rd/Lewis University/NET Programming/Lab4Assignment/SalesTransactionDemo/obj/Debug/net9.0/SalesTransactionDemo.AssemblyInfoInputs.cache
+/Users/bijujacob/Library/Mobile Documents/com~apple~CloudDocs/602 Hillside Rd/Lewis University/NET Programming/Lab4Assignment/SalesTransactionDemo/obj/Debug/net9.0/SalesTransactionDemo.AssemblyInfo.cs
+/Users/bijujacob/Library/Mobile Documents/com~apple~CloudDocs/602 Hillside Rd/Lewis University/NET Programming/Lab4Assignment/SalesTransactionDemo/obj/Debug/net9.0/SalesTransactionDemo.csproj.CoreCompileInputs.cache
+/Users/bijujacob/Library/Mobile Documents/com~apple~CloudDocs/602 Hillside Rd/Lewis University/NET Programming/Lab4Assignment/SalesTransactionDemo/obj/Debug/net9.0/SalesTransactionDemo.sourcelink.json
+/Users/bijujacob/Library/Mobile Documents/com~apple~CloudDocs/602 Hillside Rd/Lewis University/NET Programming/Lab4Assignment/SalesTransactionDemo/obj/Debug/net9.0/SalesTransactionDemo.dll
+/Users/bijujacob/Library/Mobile Documents/com~apple~CloudDocs/602 Hillside Rd/Lewis University/NET Programming/Lab4Assignment/SalesTransactionDemo/obj/Debug/net9.0/refint/SalesTransactionDemo.dll
+/Users/bijujacob/Library/Mobile Documents/com~apple~CloudDocs/602 Hillside Rd/Lewis University/NET Programming/Lab4Assignment/SalesTransactionDemo/obj/Debug/net9.0/SalesTransactionDemo.pdb
+/Users/bijujacob/Library/Mobile Documents/com~apple~CloudDocs/602 Hillside Rd/Lewis University/NET Programming/Lab4Assignment/SalesTransactionDemo/obj/Debug/net9.0/SalesTransactionDemo.genruntimeconfig.cache
+/Users/bijujacob/Library/Mobile Documents/com~apple~CloudDocs/602 Hillside Rd/Lewis University/NET Programming/Lab4Assignment/SalesTransactionDemo/obj/Debug/net9.0/ref/SalesTransactionDemo.dll

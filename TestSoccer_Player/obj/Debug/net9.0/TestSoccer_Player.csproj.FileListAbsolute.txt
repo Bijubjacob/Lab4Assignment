@@ -1,0 +1,15 @@
+/Users/bijujacob/Library/Mobile Documents/com~apple~CloudDocs/602 Hillside Rd/Lewis University/NET Programming/Lab4Assignment/TestSoccer_Player/bin/Debug/net9.0/TestSoccer_Player
+/Users/bijujacob/Library/Mobile Documents/com~apple~CloudDocs/602 Hillside Rd/Lewis University/NET Programming/Lab4Assignment/TestSoccer_Player/bin/Debug/net9.0/TestSoccer_Player.deps.json
+/Users/bijujacob/Library/Mobile Documents/com~apple~CloudDocs/602 Hillside Rd/Lewis University/NET Programming/Lab4Assignment/TestSoccer_Player/bin/Debug/net9.0/TestSoccer_Player.runtimeconfig.json
+/Users/bijujacob/Library/Mobile Documents/com~apple~CloudDocs/602 Hillside Rd/Lewis University/NET Programming/Lab4Assignment/TestSoccer_Player/bin/Debug/net9.0/TestSoccer_Player.dll
+/Users/bijujacob/Library/Mobile Documents/com~apple~CloudDocs/602 Hillside Rd/Lewis University/NET Programming/Lab4Assignment/TestSoccer_Player/bin/Debug/net9.0/TestSoccer_Player.pdb
+/Users/bijujacob/Library/Mobile Documents/com~apple~CloudDocs/602 Hillside Rd/Lewis University/NET Programming/Lab4Assignment/TestSoccer_Player/obj/Debug/net9.0/TestSoccer_Player.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bijujacob/Library/Mobile Documents/com~apple~CloudDocs/602 Hillside Rd/Lewis University/NET Programming/Lab4Assignment/TestSoccer_Player/obj/Debug/net9.0/TestSoccer_Player.AssemblyInfoInputs.cache
+/Users/bijujacob/Library/Mobile Documents/com~apple~CloudDocs/602 Hillside Rd/Lewis University/NET Programming/Lab4Assignment/TestSoccer_Player/obj/Debug/net9.0/TestSoccer_Player.AssemblyInfo.cs
+/Users/bijujacob/Library/Mobile Documents/com~apple~CloudDocs/602 Hillside Rd/Lewis University/NET Programming/Lab4Assignment/TestSoccer_Player/obj/Debug/net9.0/TestSoccer_Player.csproj.CoreCompileInputs.cache
+/Users/bijujacob/Library/Mobile Documents/com~apple~CloudDocs/602 Hillside Rd/Lewis University/NET Programming/Lab4Assignment/TestSoccer_Player/obj/Debug/net9.0/TestSoccer_Player.sourcelink.json
+/Users/bijujacob/Library/Mobile Documents/com~apple~CloudDocs/602 Hillside Rd/Lewis University/NET Programming/Lab4Assignment/TestSoccer_Player/obj/Debug/net9.0/TestSoccer_Player.dll
+/Users/bijujacob/Library/Mobile Documents/com~apple~CloudDocs/602 Hillside Rd/Lewis University/NET Programming/Lab4Assignment/TestSoccer_Player/obj/Debug/net9.0/refint/TestSoccer_Player.dll
+/Users/bijujacob/Library/Mobile Documents/com~apple~CloudDocs/602 Hillside Rd/Lewis University/NET Programming/Lab4Assignment/TestSoccer_Player/obj/Debug/net9.0/TestSoccer_Player.pdb
+/Users/bijujacob/Library/Mobile Documents/com~apple~CloudDocs/602 Hillside Rd/Lewis University/NET Programming/Lab4Assignment/TestSoccer_Player/obj/Debug/net9.0/TestSoccer_Player.genruntimeconfig.cache
+/Users/bijujacob/Library/Mobile Documents/com~apple~CloudDocs/602 Hillside Rd/Lewis University/NET Programming/Lab4Assignment/TestSoccer_Player/obj/Debug/net9.0/ref/TestSoccer_Player.dll
